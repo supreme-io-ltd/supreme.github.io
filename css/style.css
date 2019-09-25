@@ -103,13 +103,14 @@ ol {
 .section-title h2 {
 	font-size: 48px;
 	font-weight: 700;
+    color: #e83e8c;
 }
 
 .section-title p {
 	font-size: 12px;
 	font-weight: 500;
 	margin-bottom: 0;
-	color: #8e8e8e;
+	color: darkblue;
 	line-height: normal;
 	text-transform: uppercase;
 	letter-spacing: 2px;
